@@ -1,2 +1,1 @@
-# sms-from-arduino
-Trabalho TCC.
+Enviando SMS via Arduino.
